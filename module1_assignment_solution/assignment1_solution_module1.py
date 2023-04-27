@@ -30,15 +30,6 @@ for factor in factors:
         print(factor, "is an odd factor of", num)
 
 
-# solution
-
-# taking input from the user and convert it into an interger
-#num = int(input("input a number: ")
-
-# creating a list to store the factors
-#factors = []
-
-
     
 
 
