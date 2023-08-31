@@ -19,5 +19,3 @@ Answer:
 ['john', 'peter']
 
 ----------------------
-
-Question 
