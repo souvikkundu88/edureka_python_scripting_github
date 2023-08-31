@@ -1,4 +1,5 @@
 '''
+Question 5
 Please write a program which accepts a string from console and print the
 characters that have even indexes.
 Example: If the following string is given as input to the program:

@@ -1,4 +1,5 @@
 '''
+Question 3
 A website requires a user to input username and password to register. Write a program
 to check the validity of password given by user. Following are the criteria for checking
 password:
