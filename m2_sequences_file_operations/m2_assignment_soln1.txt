@@ -1,4 +1,4 @@
-# module 2 assignment solution 1
+# module 2 case study 1 assignment solution 
 
 
 Questions 1: What is the output of the following code?
